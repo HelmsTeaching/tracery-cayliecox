@@ -1,1 +1,1 @@
-This is a Tracery bot that imitates Walter Fisher. I took the sentence structure, words, and phrases from his book _Human Communication as Narration_.
+This is a Tracery bot that imitates Walter Fisher. I took the sentence structure, words, and phrases from his book _Human Communication as Narration_. The bot includes five symbols (two of the symbols have identical option lists).
